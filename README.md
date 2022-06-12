@@ -1,4 +1,4 @@
-### Hi there 👋
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mk2896&theme=radical)](https://git.io/streak-stats)
 
 <!--
 **Mk2896/Mk2896** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
